@@ -5,4 +5,4 @@
  $L (\theta) = log (K_{n}(\eta)) - \frac{1}{2} log (|\Sigma|) - 1/(2\eta) (1 + n\eta) log(1 + c(\eta) \delta),$
 
  
- **com** $log (K_{n}$
+ **com** $log (K_{n} (\eta))$
